@@ -15,7 +15,7 @@ Here are some key factors to consider when choosing a Graco airless paint spraye
 - **Screen Size:** The size of the inlet screen will correspond to the specific model of your Graco sprayer. Incorrect sizing can lead to leaks or improper filtration.
 - **Mesh Material:** Graco inlet screens come in either nylon or metal mesh options. Nylon screens offer a good balance of performance and affordability, while metal screens are generally more durable and suitable for heavier use applications.
 - **Compatibility:** It's essential to choose an inlet screen specifically designed for your Graco sprayer model to ensure proper fit and functionality.
-**Replacing Graco Airless Paint Sprayer Inlet Screens**
+### Replacing Graco Airless Paint Sprayer Inlet Screens
 - **Tightening Securely:** Over-tightening can damage the screen or housing, so follow the manufacturer's instructions for proper tightening torque or hand-tightness recommendations.
 **Testing and Operation:**
 - After replacing the inlet screen, reconnect your sprayer and follow the manufacturer's guidelines for priming and purging the system.
